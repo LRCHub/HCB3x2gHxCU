@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "MUSIC♪ (M@STER VERSION)",
+  "base_artist": "765PRO ALLSTARS",
+  "createdAt": "2025-12-29T12:08:32.225220Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MUSIC♪ (M@STER VERSION)",
+      "artist": "765PRO ALLSTARS",
+      "has_synced": false,
+      "path": "select/pl_01_MUSIC♪_(M@STER_VERSION)_765PRO_ALLSTARS.txt"
+    }
+  ]
+}
